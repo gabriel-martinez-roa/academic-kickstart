@@ -50,7 +50,7 @@ enableGitInfo = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "default"
+  color_theme = "ocean"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -62,15 +62,15 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Wisconsin-Madison", url = "" } ]
+  organizations = [ { name = "University of Wisconsin-Madison", url = "https://econ.wisc.edu/doctoral/job-market-candidates/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "profile.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "profile_3.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "gamartinez@wisc.edu"
-  address = "1080 Observatory Dr, University of Wisconsin-Madison, WI, 53706, USA"
+  address = "1180 Observatory Dr, University of Wisconsin-Madison, Madison, WI, 53706-1393, USA"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = "(608) 358 8033"
-  skype = "gabo_regio"
+  skype = "gamr_789"
   #telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -118,7 +118,7 @@ enableGitInfo = false
   comment_count = true
 
   # Display next/previous section pager?
-  section_pager = false
+  section_pager = true
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
@@ -175,7 +175,7 @@ enableGitInfo = false
   #   translated.
   publication_types = [
     'Uncategorized',  # 0
-    'Conference paper',  # 1
+    'Working paper',  # 1
     'Journal article',  # 2
     'Manuscript',  # 3
     'Report',  # 4
@@ -197,14 +197,14 @@ enableGitInfo = false
   # Configuration of project pages.
   [params.projects]
     # List publications and talks related to the project?
-    list_children = true
+    list_children = false
 
     # Publication list format.
     #   0 = Simple
     #   1 = Detailed
     #   2 = APA
     #   3 = MLA
-    publication_format = 3
+    publication_format = 2
 
   # Social/Academic Networking
   #
@@ -239,22 +239,23 @@ enableGitInfo = false
     icon_pack = "fab"
     link = "//linkedin.com/in/gabriel-mart%C3%ADnez-4b973260/"
 
+
   #[[params.social]]
    # icon = "google-scholar"
    # icon_pack = "ai"
    # link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fab"
-    link = "//github.com/gabriel-martinez-roa"
+  #[[params.social]]
+   # icon = "github"
+    #icon_pack = "fab"
+    #link = "//github.com/gabriel-martinez-roa"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the #lines below.
    [[params.social]]
-     icon = "CV"
+     icon = "cv"
      icon_pack = "ai"
-     link = "CV_042018.pdf"
+     link = "https://www.dropbox.com/s/7h1ja3dz46y2odm/CV_042018.pdf?dl=0"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -270,8 +271,8 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "JMP"
-  url = "#publications_selected"
+  name = "Research"
+  url = "#publications"
   weight = 2
 
 #[[menu.main]]
@@ -280,31 +281,33 @@ enableGitInfo = false
 #  weight = 3
 
 #[[menu.main]]
-#  name = "Projects"
-#  url = "#projects"
+#  name = "Research"
+#  url = "#Research"
 #  weight = 4
 
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 5
-
-[[menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 6
+  weight = 3
 
 [[menu.main]]
   name = "References"
   url = "#references"
-  weight = 7
+  weight = 4
+
+[[menu.main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 5
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- [[menu.main]]
+#{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
+[[menu.main]]
    name = "CV"
-   url = "CV_042018.pdf"
-   weight = 8
+   url = "cv.pdf"
+   weight = 6
 
 # Search.
 [params.search]

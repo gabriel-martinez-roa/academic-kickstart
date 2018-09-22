@@ -11,8 +11,9 @@ weight = 5
 [interests]
   interests = [
     "Microeconomic Theory",
-    "Informational Economics",
-    "Decentralized Interactions"
+    "Applied Microeconomics",
+    "Information and Mechanism Design",
+    "Decentralized Markets"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -24,7 +25,7 @@ weight = 5
 [[education.courses]]
   course = "MS in Economics"
   institution = "University of Wisconsin-Madison"
-  year = 2015
+  year = 2016
 
 [[education.courses]]
   course = "BA in Economics"
@@ -33,8 +34,8 @@ weight = 5
  
 +++
 
+
 # Biography
 
-I'm graduating from the [University of Wisconsin Madison](https://econ.wisc.edu). I'll be available for interviews in the AEA meeting at Atlanta, 2019.
+I'm an economist trained at the [University of Wisconsin](https://econ.wisc.edu/doctoral/job-market-candidates/). I will be available for interviewing at the 2019 AEA Meeting in Atlanta.
 
-{{% staticref "CV_042018.pdf" %}}Download my CV{{% /staticref %}}

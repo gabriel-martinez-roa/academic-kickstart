@@ -11,9 +11,15 @@ title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 12
+
+
+
+[[feature]]
+  icon = "chackboard-teacher"
+  icon_pack = "fa"
+  name = "Econ 711"
+  description = "..."
+
 
 +++
-
-- Econ 711
-
