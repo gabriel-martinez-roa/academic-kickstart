@@ -1,6 +1,6 @@
 +++
-title = "Dynamic Decentralized Markets"
-date = 2018-09-08T14:49:05-05:00
+title = "Dynamic Trading in Decentralized Markets"
+date = 2018-10-18T14:49:05-05:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,14 +15,14 @@ authors = ["Gabriel Martinez-Roa", "Marzena Rostek"]
 # 4 = Online Appendix
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "we study the dynamic behavior of decentralized markets. Using a flexible framework we consider the standard double auction linear pricing model to define market clearing exchanges that are interconnected via the assets they trade and the players that participate in them. This is, we consider market interactions in a hyper-graph, which allows for multilateral interactions and arbitrary connections between exchanges. We are interested in the efficiency properties of decentralized structures with frequent trading. Likewise, we explore open questions about the network effects of financial inclusion, innovation and over-the-counter trading of standardized assets."
+abstract = "Most financial assets are traded in multiple trading venues. We study a model of imperfectly-competitive trading where agents have multiple opportunities to trade risky assets. We consider decentralized markets: that is, there are coexisting exchanges for many assets and any number of strategic traders. We characterize equilibrium dynamics of prices, trades, and price impact. Markets with the same prices, allocations, and price impact may differ in their dynamic efficiency properties depending on the characteristics of traders and their participation in different exchanges. We provide necessary and sufficient conditions - on trader participation alone - for markets to be dynamically efficient as the number of rounds grows to infinity. Decentralized markets for a single asset (or, more generally, standardized assets) are always dynamically efficient. For assets traded at low frequencies, even markets that are not dynamically efficient can give rise to higher total welfare than the centralized market. Increasing trading frequency can lower welfare due to the interaction of price impact and market incompleteness (i.e., limited participation in the exchanges)."
 #abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -55,7 +55,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+ url_custom = [{name = "Available by e-mail", url = "mailto:gamartinez@wisc.edu"}]
 #url_custom = [{name = "PDF", url = "https://www.dropbox.com/s/d9y4evj0o3ymfvw/Persuasion_with_skeptic_receivers.pdf?dl=0"}]
 
 # Does this page contain LaTeX math? (true/false)

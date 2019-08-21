@@ -1,11 +1,10 @@
 +++
-title = "Games among Groups"
-
-#date = 2018-10-18T14:49:05-05:00
+title = "Optimal Echo Chambers"
+date = 2019-07-09T14:49:05-05:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Gabriel Martinez-Roa", "Marzena Rostek", "Ji-Hee Yoon"]
+authors = [ "Gabriel Martinez-Roa", "Nicholas Tenev"]
 
 # Publication type.
 # Legend:
@@ -23,8 +22,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "" 
-#We study groups of players that can coordinate their action when interacting with other players or groups of players"
+abstract = "How much attention should you pay those you disagree with on factual matters?Not  as  much—they  are  less  likely  to  be  right.   We  model  a  decision  maker  drawing a signal from a collection of unbiased sources of heterogeneous quality.  If she is able to sample based on signal content,  changing the relative likelihood of receiving each possible signal, we show that her optimal sampling strategy puts more weight on signals closer to the prior expectation."
 #abstract_short = ""
 
 # Featured image thumbnail (optional)

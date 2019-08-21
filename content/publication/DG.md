@@ -1,6 +1,6 @@
 +++
-title = "Contracts among Groups"
-date = 2018-09-08T14:49:05-05:00
+title = "Games with Multilateral Contracts"
+date = 2018-10-18T14:49:05-05:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,14 +15,14 @@ authors = ["Gabriel Martinez-Roa", "Marzena Rostek", "Ji-Hee Yoon"]
 # 4 = Online Appendix
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "We study games where players’ belong to one or multiple groups. Their payoffs are a function only of the actions of the players in their groups and can sign contracts with them. This is, players choose contingent schedules of their actions as a function of other players’ actions. Assuming quadratic payoff functions, we characterize the equilibrium in linear contracts where players correctly anticipate the strategic impact they have on other players. The game structure endogenously defines a weighted, directed network among players, with weights given by the optimal equation of residual strategic impact across counterparts. We provide comparative statics for a general class of games, those where players’ groups form a complete network with respect to the externalities they have on each other, the strength of their connections, the number of players in the network and provide necessary and sufficient conditions for large games to be efficient."
+abstract = "This paper examines games among groups of players who act non-cooperatively. Players can be members of multiple groups (contracts), and their payoffs exhibit externalities both within and across groups. We characterize equilibrium for games in which the payoff externalities among groups are symmetric for each player. We characterize when bilateral vs. multilateral contracts maximize total welfare. Furthermore, we show that creating private clubs, in which a subset of group members signs a separate contract, can improve welfare by reducing negative strategic externalities in the larger contract."
 #abstract_short = ""
 
 # Featured image thumbnail (optional)

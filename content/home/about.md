@@ -10,26 +10,25 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Microeconomic Theory",
-    "Applied Microeconomics",
-    "Information and Mechanism Design",
-    "Decentralized Markets"
+    "Applied Microeconomic Theory",
+    "Information Economics",
+    "Economic Networks"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Economics"
+  course = "Ph.D. in Economics"
   institution = "University of Wisconsin-Madison"
-  year = 2019
+  year = '2020 (Expected)'
 
 [[education.courses]]
-  course = "MS in Economics"
+  course = "M.S. in Economics"
   institution = "University of Wisconsin-Madison"
   year = 2016
 
 [[education.courses]]
-  course = "BA in Economics"
-  institution = "Centro de Investigacion y Docencia Economicas (CIDE)"
+  course = "B.S. in Economics"
+  institution = "Centro de Investigación y Docencia Económicas (CIDE)"
   year = 2012
  
 +++
@@ -37,5 +36,7 @@ weight = 5
 
 # Biography
 
-I'm an economist trained at the [University of Wisconsin](https://econ.wisc.edu/doctoral/job-market-candidates/). I will be available for interviewing at the 2019 AEA Meeting in Atlanta.
+Hi, my name is Gabriel. I am an economist trained at the [University of Wisconsin](https://econ.wisc.edu/doctoral/job-market-candidates/). My research interests center on two topics. In the first one I study the design of persuasive information when the audience is uncertain about how informative a message is. The second topic studies economic interactions that occur in networks. These interactions include both markets with imperfect competition and non-cooperative games among groups of players.
+
+
 
