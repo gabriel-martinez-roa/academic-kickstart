@@ -1,10 +1,10 @@
 +++
-title = "Optimal Echo Chambers"
-date = 2019-04-09T14:49:05-05:00
+title = "Hospital Incentives under Capitation and Fee-for-Service  Contracts"
+date = 2019-05-09T14:49:05-05:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [ "Gabriel Martinez-Roa", "Nicholas Tenev"]
+authors = [ "Gabriel Martinez-Roa", "Natalia Serna"]
 
 # Publication type.
 # Legend:
@@ -22,7 +22,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "How much attention should you pay those you disagree with on factual matters?Not  as  much—they  are  less  likely  to  be  right.   We  model  a  decision  maker  drawing a signal from a collection of unbiased sources of heterogeneous quality.  If she is able to sample based on signal content,  changing the relative likelihood of receiving each possible signal, we show that her optimal sampling strategy puts more weight on signals closer to the prior expectation."
+abstract = ""
 #abstract_short = ""
 
 # Featured image thumbnail (optional)

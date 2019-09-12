@@ -10,10 +10,11 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Applied Microeconomic Theory",
     "Information Economics",
-    "Economic Networks"
+    "Empirical Industrial Organization",
+    "Applied Microeconomic Theory"
   ]
+  
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
@@ -36,7 +37,7 @@ weight = 5
 
 # Biography
 
-Hi, my name is Gabriel. I am an economist trained at the [University of Wisconsin](https://econ.wisc.edu/doctoral/job-market-candidates/). My research interests center on two topics. In the first one I study the design of persuasive information when the audience is uncertain about how informative a message is. The second topic studies economic interactions that occur in networks. These interactions include both markets with imperfect competition and non-cooperative games among groups of players.
+Hi, my name is Gabriel. I am an economist trained at the [University of Wisconsin-Madison](https://econ.wisc.edu/doctoral/job-market-candidates/). My main interest is in developing new tools to explain people's choices.  My research agenda (in cooperation with my co-authors) centers on three axes. The first one is the study of information transmission in digital media and between imperfectly informed people.  The second one is the study of economic interactions that occur in complex networks. These interactions include both markets and games. Lastly, I am also working on estimating the extent of moral hazard and its effect on patients' outcomes in the Colombian health-care system.
 
 
 

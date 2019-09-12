@@ -1,5 +1,5 @@
 +++
-title = "Bayesian Persuasion with Hidden Motives"
+title = "Bayesian Persuasion in the Digital Age"
 date = 2019-07-09T14:49:05-05:00
 draft = false
 

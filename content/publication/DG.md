@@ -1,6 +1,6 @@
 +++
 title = "Games with Multilateral Contracts"
-date = 2018-10-18T14:49:05-05:00
+date = 2019-02-18T14:49:05-05:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

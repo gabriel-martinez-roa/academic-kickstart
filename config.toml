@@ -59,7 +59,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Gabriel Martinez-Roa"
-  role = "PhD Student"
+  role = "PhD Candidate"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -309,7 +309,7 @@ enableGitInfo = false
 #{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
 [[menu.main]]
    name = "CV"
-   url = "files/cv.pdf"
+   url = "https://www.dropbox.com/s/iwqdh1hc6epmk02/GMR_CV.pdf?raw=1"
    weight = 6
 
 # Search.
