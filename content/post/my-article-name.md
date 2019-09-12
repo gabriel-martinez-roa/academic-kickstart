@@ -1,7 +1,7 @@
 +++
-title = "Spring 2015 - (101) [Principles of Microeconomics (Undergradiate)  -    UW-Madison "
+title = ""
 date = 2018-10-09T21:21:38-05:00
-draft = false
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
@@ -22,23 +22,3 @@ caption = ""
 preview = false
 
 +++
-
-
-I can add some content here
-
-
-
-
-What if it is super [long]{{< ref "posts.md" >}}
-
-
-
-
-
-and with [links](google.com)
-
-if it goes on and on?
-
-
-
-what happens next?

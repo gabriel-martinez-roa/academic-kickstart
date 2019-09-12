@@ -1,7 +1,7 @@
 +++
 title = "Bayesian Persuasion with Signal Uncertainty"
 date = 2018-09-08T15:03:56-05:00  # Schedule page publish date.
-draft = false
+draft = true
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
