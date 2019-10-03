@@ -1,6 +1,6 @@
 +++
-title = "Marek Weretka"
-date = 2019-09-22T17:11:15-05:00
+title = "David Hansen (Teaching)"
+date = 2018-09-22T17:11:15-05:00
 draft = false
 
 weight = 4
@@ -10,13 +10,13 @@ weight = 4
 tags = []
 
 # Project summary to display on homepage.
-summary = "UW-Madison +1 (608) 262 2265   weretka@wisc.edu"
+summary = "UW-Madison +1 (608) 265 8019   drhansen3@wisc.edu"
 
 # Optional image to display on homepage.
 image_preview = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "mailto:weretka@wisc.edu"
+external_link = "mailto:drhansen3@wisc.edu"
 
 # Does the project detail page use math formatting?
 math = false

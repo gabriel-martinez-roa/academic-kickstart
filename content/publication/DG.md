@@ -1,5 +1,5 @@
 +++
-title = "Games with Multilateral Contracts"
+title = "Games among Groups"
 date = 2019-02-18T14:49:05-05:00
 draft = false
 
@@ -22,7 +22,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "This paper examines games among groups of players who act non-cooperatively. Players can be members of multiple groups (contracts), and their payoffs exhibit externalities both within and across groups. We characterize equilibrium for games in which the payoff externalities among groups are symmetric for each player. We characterize when bilateral vs. multilateral contracts maximize total welfare. Furthermore, we show that creating private clubs, in which a subset of group members signs a separate contract, can improve welfare by reducing negative strategic externalities in the larger contract."
+abstract = "Externalities and peer effects typically apply to groups rather than all agents. We model noncooperative interactions among a finite number of players who interact through any number of groups (a hypergraph). Groups endogenously change how the players value the interaction and contribute to it. Interaction through groups can realize surplus that cannot be attained by a single group among the same players. The group structure determines players’ influence on one another. The effects on player’s influence are important to understand why groups matter. Private clubs (interactions among some agents) can increase welfare if they are exclusive and not too prevalent. Different group interactions enhance equilibrium surplus from externality vs. risk-sharing. "
 #abstract_short = ""
 
 # Featured image thumbnail (optional)

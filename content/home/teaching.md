@@ -13,11 +13,10 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 12
 
-# [Game Theory]( https://gabriel-martinez-roa.github.io/TA_Material/521.md)
 
 
 [[feature]]
-  icon = "chackboard-teacher"
+  icon = "chalkboard-teacher"
   icon_pack = "fa"
   name = "Econ 711"
   description = "..."
@@ -30,16 +29,16 @@ weight = 12
 
 | Term    | Course | Institution |
 | ------------- |-------------| :-----:|
-| Fall 2019 | (Fin 300) Introduction to Finance (Undergraduate)  |    UW-Madison |
-| Fall 2019 | (Fin 325) Corporate Finance (Undergraduate)  |    UW-Madison |
-| Summer 2019 | (Econ 521) [Game Theory](https://gabriel-martinez-roa.github.io/ta_material/521/)  (Undergraduate)  |    UW-Madison |
+| Fall 2019 | (Fin 300) [Introduction to Finance](https://gabriel-martinez-roa.github.io/ta_material/f300/) (Undergraduate)  |    UW-Madison |
+| Fall 2019 | (Fin 325) [Corporate Finance](https://gabriel-martinez-roa.github.io/ta_material/f325/) (Undergraduate)  |    UW-Madison |
+| Summer 2019 | (Econ 521) [Game Theory](https://gabriel-martinez-roa.github.io/ta_material/521/)  (Undergraduate - Online)  |    UW-Madison |
 | Fall 2017 | (Econ 703) [Math for Economists](https://gabriel-martinez-roa.github.io/ta_material/703/) (Ph.D.)  |    UW-Madison |
 | Fall 2016 | (Econ 703) [Math for Economists](https://gabriel-martinez-roa.github.io/ta_material/703/) (Ph.D.)  |    UW-Madison |
 | Spring 2016 | (Econ 713) Theory: Microeconomics Sequence II (Ph.D.)   | UW-Madison |
 | Fall 2015 | (Econ 711) Theory: Microeconomics Sequence (Ph.D.)   | UW-Madison |
-| Spring 2015 | (Econ 101) Principles of Microeconomics (Undergradiate)  |    UW-Madison |
-| Fall 2014 | (Econ 302) Intermediate Macroeconomics (Undergradiate) |    UW-Madison |
-| Fall 2012 | Advanced Microeconmics (Undergradiate)    |    CIDE |
-| Spring 2012 | Game Theory (Undergradiate)     |    CIDE |
-| Spring 2011     | Intermediate Microeconomics (Undergradiate)   |   CIDE |
-| Fall 2010     | Intermediate Macroeconomics (Undergradiate) |CIDE|
+| Spring 2015 | (Econ 101) [Principles of Microeconomics](https://gabriel-martinez-roa.github.io/ta_material/101/) (Undergraduate)  |    UW-Madison |
+| Fall 2014 | (Econ 302) [Intermediate Macroeconomics](https://gabriel-martinez-roa.github.io/ta_material/302/) (Undergraduate) |    UW-Madison |
+| Fall 2012 | Advanced Microeconomics (Undergraduate)    |    CIDE |
+| Spring 2012 | Game Theory (Undergraduate)     |    CIDE |
+| Spring 2011     | Intermediate Microeconomics (Undergraduate)   |   CIDE |
+| Fall 2010     | Intermediate Macroeconomics (Undergraduate) |CIDE|

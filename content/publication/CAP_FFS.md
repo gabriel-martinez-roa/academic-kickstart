@@ -22,7 +22,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "In the Colombian health care system, the government regulates the relationship between insurers and hospitals by fixing a menu of contracts from which they can choose for the provision of health services. The menu of contracts includes 'capitation' and 'fee-for-service' (FFS), which represent 80% of the claims in 2010. In capitation contracts hospitals are paid a fixed amount per patient, regardless of treatment; while in FFS contracts, insurers fully pay the hospitals for each service. We use a comprehensive dataset of individual patients' claims in the Colombian healthcare system.  We estimate the extent to which these financial incentives distort the provision of health services and their effect on patient's outcomes."
 #abstract_short = ""
 
 # Featured image thumbnail (optional)

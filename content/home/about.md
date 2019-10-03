@@ -14,7 +14,7 @@ weight = 5
     "Empirical Industrial Organization",
     "Applied Microeconomic Theory"
   ]
-  
+
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
@@ -31,7 +31,7 @@ weight = 5
   course = "B.S. in Economics"
   institution = "Centro de Investigación y Docencia Económicas (CIDE)"
   year = 2012
- 
+
 +++
 
 
@@ -39,5 +39,4 @@ weight = 5
 
 Hi, my name is Gabriel. I am an economist trained at the [University of Wisconsin-Madison](https://econ.wisc.edu/doctoral/job-market-candidates/). My main interest is in developing new tools to explain people's choices.  My research agenda (in cooperation with my co-authors) centers on three axes. The first one is the study of information transmission in digital media and between imperfectly informed people.  The second one is the study of economic interactions that occur in complex networks. These interactions include both markets and games. Lastly, I am also working on estimating the extent of moral hazard and its effect on patients' outcomes in the Colombian health-care system.
 
-
-
+I will be available for interviewing  both at the 2019 NABE conference in Seattle and the 2020 ASSA meeting in San Diego. 

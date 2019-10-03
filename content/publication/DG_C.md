@@ -1,7 +1,7 @@
 +++
-title = "Games among Groups"
+title = "Cooperative Decentralized Games"
 date = 2019-03-18T14:49:05-05:00
-draft = false
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Gabriel Martinez-Roa", "Marzena Rostek", "Ji-Hee Yoon"]
@@ -22,7 +22,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "" 
+abstract = ""
 #We study groups of players that can coordinate their action when interacting with other players or groups of players"
 #abstract_short = ""
 
