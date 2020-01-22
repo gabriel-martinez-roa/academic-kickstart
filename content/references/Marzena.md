@@ -10,13 +10,13 @@ weight = 1
 tags = []
 
 # Project summary to display on homepage.
-summary = "UW-Madison +1 (608) 262 6723 mrostek@ssc.wisc.edu"
+summary = "UW-Madison [+1 608-262-6723](tel:+16082626723) [mrostek@ssc.wisc.edu](mailto:mrostek@ssc.wisc.edu)"
 
 # Optional image to display on homepage.
 image_preview = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "mailto:mrostek@ssc.wisc.edu"
+external_link = "https://econ.wisc.edu/staff/rostek-marzena/"
 
 # Does the project detail page use math formatting?
 math = false

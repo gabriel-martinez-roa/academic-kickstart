@@ -22,7 +22,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "In digital platforms, agents have vast access to information, but the quality of it is usually unclear to them. I study this phenomenon as a Bayesian persuasion game with multiple senders that have partial control over the beliefs of a receiver. The receiver knows the signal chosen by all senders but randomly observes the realization of only one such signal. Senders can pool their signals, so the receiver is uncertain about the informativeness of the message received. This uncertainty may incentivize a sender to provide more or less information compared to the benchmark without uncertainty. The central insight is that each sender's optimal signal is chosen to affect the average signal conditional on the actions of other senders. I apply this framework in some important examples to derive policy recommendations for information platforms like social media."
+abstract = "In digital platforms, agents have vast access to information, but the quality of it is unclear. I study this phenomenon as a Bayesian persuasion game with multiple senders that have partial control over the beliefs of a receiver. The receiver knows the signal chosen by all senders but randomly observes the realization of only one such signal. Senders can pool their signals, so the receiver is uncertain about the informativeness of the message received. This uncertainty may incentivize a sender to provide more or less information compared to the benchmark without uncertainty about the sender. The central insight is that each sender’s signal is chosen to affect the average correlation between messages and the state of the world, given the communication strategies of other senders. I derive policy recommendations to improve the quality of the information on platforms like social media."
 
 #"People regularly receive recommendations regarding how to behave based on some piece of evidence. Whether it is a news report, an article in a magazine or social media, a marketing campaign, a policy evaluation, etc, they usually have data or experiments that support their statements. However, for many decision makers, it is often hard or impossible to fully understand the details of how the study was designed, the power of its tests, or its external validity. In a model of bayesian persuasion, I consider a receiver with uncertainty about the signal that a sender uses to persuade. Both exogenous and endogenous uncertainty can be accommodated. I show how this asymmetry in the understanding of the signal may benefit some types of senders and harm others. As in a lemons market, asymmetric persuasion is in general good for low types, bad for high types and can lead to no information transmitted in equilibrium. Finally, I show that uncertainty imposes endogenous constraints on the posteriors that an information designer can implement."
 
@@ -58,8 +58,8 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
- url_custom = [{name = "Available by e-mail", url = "mailto:gamartinez@wisc.edu"}]
-#url_custom = [{name = "PDF", url = "https://www.dropbox.com/s/d9y4evj0o3ymfvw/Persuasion_with_skeptic_receivers.pdf?dl=0"}]
+ url_custom = [{name = "Slides", url = "https://www.dropbox.com/s/44xxvgivw2w1xcs/BP_DA_SB_WAHSU19.pdf?raw=1"},{name = "PDF", url = "https://www.dropbox.com/s/od4g8y3o4xrw61g/BP_Digital_Media.pdf?raw=1"} ]
+
 
 # Does this page contain LaTeX math? (true/false)
 math = true

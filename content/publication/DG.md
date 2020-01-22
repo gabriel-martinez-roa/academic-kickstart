@@ -22,7 +22,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Externalities and peer effects typically apply to groups rather than all agents. We model noncooperative interactions among a finite number of players who interact through any number of groups (a hypergraph). Groups endogenously change how the players value the interaction and contribute to it. Interaction through groups can realize surplus that cannot be attained by a single group among the same players. The group structure determines players’ influence on one another. The effects on player’s influence are important to understand why groups matter. Private clubs (interactions among some agents) can increase welfare if they are exclusive and not too prevalent. Different group interactions enhance equilibrium surplus from externality vs. risk-sharing. "
+abstract = "Externalities and peer effects typically apply to groups rather than all agents. We model noncooperative interactions among a finite number of players who interact through any number of groups (a hypergraph). Groups endogenously change how the players value the interaction and contribute to it. Interaction in groups can realize surplus that cannot be attained by a single group among the same players. The group structure determines players’ influence on one another. The effects on player’s influence are important to understand why groups matter. Private clubs (interactions among some agents) can increase welfare if they are exclusive and not too prevalent. Different group interactions enhance equilibrium surplus from externality vs. risk-sharing. "
 #abstract_short = ""
 
 # Featured image thumbnail (optional)

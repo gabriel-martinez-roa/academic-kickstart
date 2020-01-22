@@ -10,13 +10,13 @@ weight = 4
 tags = []
 
 # Project summary to display on homepage.
-summary = "UW-Madison +1 (608) 265 8019   drhansen3@wisc.edu"
+summary = "UW-Madison [+1 608-265-8019](tel:+16082658019) [drhansen3@wisc.edu](mailto:drhansen3@wisc.edu)"
 
 # Optional image to display on homepage.
 image_preview = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "mailto:drhansen3@wisc.edu"
+external_link = "https://econ.wisc.edu/staff/hansen-david/"
 
 # Does the project detail page use math formatting?
 math = false

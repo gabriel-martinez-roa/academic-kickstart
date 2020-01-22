@@ -55,7 +55,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
- url_custom = [{name = "Available by e-mail", url = "mailto:gamartinez@wisc.edu"}]
+ url_custom = [{name = "Request by e-mail", url = "mailto:gamartinez@wisc.edu"}]
 #url_custom = [{name = "PDF", url = "https://www.dropbox.com/s/d9y4evj0o3ymfvw/Persuasion_with_skeptic_receivers.pdf?dl=0"}]
 
 # Does this page contain LaTeX math? (true/false)

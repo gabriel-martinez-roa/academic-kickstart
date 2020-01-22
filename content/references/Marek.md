@@ -10,13 +10,13 @@ weight = 4
 tags = []
 
 # Project summary to display on homepage.
-summary = "UW-Madison +1 (608) 262 2265   weretka@wisc.edu"
+summary = "UW-Madison [+1 608-262-2265](tel:+16082622265) [marek.weretka@gmail.com](mailto:marek.weretka@gmail.com)"
 
 # Optional image to display on homepage.
 image_preview = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "mailto:weretka@wisc.edu"
+external_link = "https://econ.wisc.edu/staff/weretka-marek/"
 
 # Does the project detail page use math formatting?
 math = false
